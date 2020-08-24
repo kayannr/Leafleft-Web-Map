@@ -15,4 +15,15 @@ The USGS (United States Geological Survey) is responsible for providing scientif
 
    The USGS provides earthquake data in a number of different formats, updated every 5 minutes. The [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page provides the URL of the JSON to pull in the data for the visualization.
 
+  ![4-JSON](USGS/static/images/4-JSON.png)
+  
+ 2. **Import & Visualize the Data**
 
+   The Leaflet maps that plot all of the earthquakes from the data set based on their longitude and latitude are displayed below. The features of the maps include: 
+   * Data markers that reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes  appear larger and darker in color.
+
+   * Popups that provide additional information about the earthquake when a marker is clicked.
+
+   * Create a legend that will provide context for your map data.
+
+   * Your visualization should look something like the map above.
