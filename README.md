@@ -20,10 +20,17 @@ The USGS (United States Geological Survey) is responsible for providing scientif
  2. **Import & Visualize the Data**
 
    The Leaflet maps that plot all of the earthquakes from the data set based on their longitude and latitude are displayed below. The features of the maps include: 
-   * Data markers that reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes  appear larger and darker in color.
+   > * Data markers that reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes  appear larger and darker in color.
 
-   * Popups that provide additional information about the earthquake when a marker is clicked.
+   > * Popups that provide additional information about the earthquake when a marker is clicked.
 
-   * Create a legend that will provide context for your map data.
+   > * A legend that provide context for the map data.
+* **Map 1**
+      ![1-map](USGS/static/images/sattelitePNG.PNG)
+* **Map 2**
+      ![2-map](USGS/static/images/dark.PNG)
+* **Map 3**
+      ![3-map](USGS/static/images/light.PNG)
+* **Map 4**
+      ![4-map](USGS/static/images/light2.PNG)
 
-   * Your visualization should look something like the map above.
