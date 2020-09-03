@@ -1,6 +1,6 @@
 # Visualizing Data with Leaflet
 
-https://kayannr.github.io/leaflet-challenge/USGS/index.html
+https://kayannr.github.io/Leafleft-Web-Map/USGS/index.html
 
 ## Background
 
